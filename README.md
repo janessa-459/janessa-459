@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janessa-459
 - 👀 I’m interested in improving my tech skills
-- 🌱 I’m currently learning Html,Css & Javascript
+- 🌱 I’m currently at Techathon (front-end dev trainee)
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me janedavid459@yahoo.com
 
